@@ -7,6 +7,8 @@ process_count_check(){
 	fi
 }
 
+process_count_check
+
 read_config(){
 
 	configuration_file=$1
